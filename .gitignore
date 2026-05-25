@@ -1,0 +1,22 @@
+# Environment Variables
+.env
+test.py
+test1.py
+test2.py
+table_1.csv
+image.png
+
+# Python Caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+
+# Data Folders (Ignore the actual PDFs)
+data/incoming/*
+data/archive/*
+
+# Ignore keeping empty folders in git except through .gitkeep
+!data/incoming/.gitkeep
+!data/archive/.gitkeep

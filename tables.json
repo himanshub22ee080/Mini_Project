@@ -1,0 +1,309 @@
+[
+  {
+    "table_id": "table_1",
+    "pages": [
+      1,
+      2,
+      3
+    ],
+    "headers": [
+      "Old Strike",
+      "New Strike"
+    ],
+    "rows": [
+      {
+        "Old Strike": "230.00",
+        "New Strike": "38.33"
+      },
+      {
+        "Old Strike": "235.00",
+        "New Strike": "39.17"
+      },
+      {
+        "Old Strike": "240.00",
+        "New Strike": "40.00"
+      },
+      {
+        "Old Strike": "245.00",
+        "New Strike": "40.83"
+      },
+      {
+        "Old Strike": "250.00",
+        "New Strike": "41.67"
+      },
+      {
+        "Old Strike": "255.00",
+        "New Strike": "42.50"
+      },
+      {
+        "Old Strike": "260.00",
+        "New Strike": "43.33"
+      },
+      {
+        "Old Strike": "265.00",
+        "New Strike": "44.17"
+      },
+      {
+        "Old Strike": "270.00",
+        "New Strike": "45.00"
+      },
+      {
+        "Old Strike": "275.00",
+        "New Strike": "45.83"
+      },
+      {
+        "Old Strike": "280.00",
+        "New Strike": "46.67"
+      },
+      {
+        "Old Strike": "285.00",
+        "New Strike": "47.50"
+      },
+      {
+        "Old Strike": "290.00",
+        "New Strike": "48.33"
+      },
+      {
+        "Old Strike": "295.00",
+        "New Strike": "49.17"
+      },
+      {
+        "Old Strike": "300.00",
+        "New Strike": "50.00"
+      },
+      {
+        "Old Strike": "305.00",
+        "New Strike": "50.83"
+      },
+      {
+        "Old Strike": "310.00",
+        "New Strike": "51.67"
+      },
+      {
+        "Old Strike": "315.00",
+        "New Strike": "52.50"
+      },
+      {
+        "Old Strike": "320.00",
+        "New Strike": "53.33"
+      },
+      {
+        "Old Strike": "325.00",
+        "New Strike": "54.17"
+      },
+      {
+        "Old Strike": "330.00",
+        "New Strike": "55.00"
+      },
+      {
+        "Old Strike": "335.00",
+        "New Strike": "55.83"
+      },
+      {
+        "Old Strike": "340.00",
+        "New Strike": "56.67"
+      },
+      {
+        "Old Strike": "345.00",
+        "New Strike": "57.50"
+      },
+      {
+        "Old Strike": "350.00",
+        "New Strike": "58.33"
+      },
+      {
+        "Old Strike": "355.00",
+        "New Strike": "59.17"
+      },
+      {
+        "Old Strike": "360.00",
+        "New Strike": "60.00"
+      },
+      {
+        "Old Strike": "365.00",
+        "New Strike": "60.83"
+      },
+      {
+        "Old Strike": "370.00",
+        "New Strike": "61.67"
+      },
+      {
+        "Old Strike": "375.00",
+        "New Strike": "62.50"
+      },
+      {
+        "Old Strike": "380.00",
+        "New Strike": "63.33"
+      },
+      {
+        "Old Strike": "385.00",
+        "New Strike": "64.17"
+      },
+      {
+        "Old Strike": "390.00",
+        "New Strike": "65.00"
+      },
+      {
+        "Old Strike": "395.00",
+        "New Strike": "65.83"
+      },
+      {
+        "Old Strike": "400.00",
+        "New Strike": "66.67"
+      },
+      {
+        "Old Strike": "405.00",
+        "New Strike": "67.50"
+      },
+      {
+        "Old Strike": "410.00",
+        "New Strike": "68.33"
+      },
+      {
+        "Old Strike": "415.00",
+        "New Strike": "69.17"
+      },
+      {
+        "Old Strike": "420.00",
+        "New Strike": "70.00"
+      },
+      {
+        "Old Strike": "425.00",
+        "New Strike": "70.83"
+      },
+      {
+        "Old Strike": "430.00",
+        "New Strike": "71.67"
+      },
+      {
+        "Old Strike": "435.00",
+        "New Strike": "72.50"
+      },
+      {
+        "Old Strike": "440.00",
+        "New Strike": "73.33"
+      },
+      {
+        "Old Strike": "445.00",
+        "New Strike": "74.17"
+      },
+      {
+        "Old Strike": "450.00",
+        "New Strike": "75.00"
+      },
+      {
+        "Old Strike": "455.00",
+        "New Strike": "75.83"
+      },
+      {
+        "Old Strike": "460.00",
+        "New Strike": "76.67"
+      },
+      {
+        "Old Strike": "465.00",
+        "New Strike": "77.50"
+      },
+      {
+        "Old Strike": "470.00",
+        "New Strike": "78.33"
+      },
+      {
+        "Old Strike": "475.00",
+        "New Strike": "79.17"
+      },
+      {
+        "Old Strike": "480.00",
+        "New Strike": "80.00"
+      },
+      {
+        "Old Strike": "485.00",
+        "New Strike": "80.83"
+      },
+      {
+        "Old Strike": "490.00",
+        "New Strike": "81.67"
+      },
+      {
+        "Old Strike": "495.00",
+        "New Strike": "82.50"
+      },
+      {
+        "Old Strike": "500.00",
+        "New Strike": "83.33"
+      },
+      {
+        "Old Strike": "505.00",
+        "New Strike": "84.17"
+      },
+      {
+        "Old Strike": "510.00",
+        "New Strike": "85.00"
+      },
+      {
+        "Old Strike": "515.00",
+        "New Strike": "85.83"
+      },
+      {
+        "Old Strike": "520.00",
+        "New Strike": "86.67"
+      },
+      {
+        "Old Strike": "525.00",
+        "New Strike": "87.50"
+      },
+      {
+        "Old Strike": "530.00",
+        "New Strike": "88.33"
+      },
+      {
+        "Old Strike": "535.00",
+        "New Strike": "89.17"
+      },
+      {
+        "Old Strike": "540.00",
+        "New Strike": "90.00"
+      },
+      {
+        "Old Strike": "545.00",
+        "New Strike": "90.83"
+      },
+      {
+        "Old Strike": "550.00",
+        "New Strike": "91.67"
+      },
+      {
+        "Old Strike": "555.00",
+        "New Strike": "92.50"
+      },
+      {
+        "Old Strike": "560.00",
+        "New Strike": "93.33"
+      },
+      {
+        "Old Strike": "565.00",
+        "New Strike": "94.17"
+      },
+      {
+        "Old Strike": "570.00",
+        "New Strike": "95.00"
+      },
+      {
+        "Old Strike": "575.00",
+        "New Strike": "95.83"
+      },
+      {
+        "Old Strike": "580.00",
+        "New Strike": "96.67"
+      },
+      {
+        "Old Strike": "585.00",
+        "New Strike": "97.50"
+      },
+      {
+        "Old Strike": "590.00",
+        "New Strike": "98.33"
+      }
+    ],
+    "semantic_text": "Old Strike is 230.00, New Strike is 38.33.\nOld Strike is 235.00, New Strike is 39.17.\nOld Strike is 240.00, New Strike is 40.00.\nOld Strike is 245.00, New Strike is 40.83.\nOld Strike is 250.00, New Strike is 41.67.\nOld Strike is 255.00, New Strike is 42.50.\nOld Strike is 260.00, New Strike is 43.33.\nOld Strike is 265.00, New Strike is 44.17.\nOld Strike is 270.00, New Strike is 45.00.\nOld Strike is 275.00, New Strike is 45.83.\nOld Strike is 280.00, New Strike is 46.67.\nOld Strike is 285.00, New Strike is 47.50.\nOld Strike is 290.00, New Strike is 48.33.\nOld Strike is 295.00, New Strike is 49.17.\nOld Strike is 300.00, New Strike is 50.00.\nOld Strike is 305.00, New Strike is 50.83.\nOld Strike is 310.00, New Strike is 51.67.\nOld Strike is 315.00, New Strike is 52.50.\nOld Strike is 320.00, New Strike is 53.33.\nOld Strike is 325.00, New Strike is 54.17.\nOld Strike is 330.00, New Strike is 55.00.\nOld Strike is 335.00, New Strike is 55.83.\nOld Strike is 340.00, New Strike is 56.67.\nOld Strike is 345.00, New Strike is 57.50.\nOld Strike is 350.00, New Strike is 58.33.\nOld Strike is 355.00, New Strike is 59.17.\nOld Strike is 360.00, New Strike is 60.00.\nOld Strike is 365.00, New Strike is 60.83.\nOld Strike is 370.00, New Strike is 61.67.\nOld Strike is 375.00, New Strike is 62.50.\nOld Strike is 380.00, New Strike is 63.33.\nOld Strike is 385.00, New Strike is 64.17.\nOld Strike is 390.00, New Strike is 65.00.\nOld Strike is 395.00, New Strike is 65.83.\nOld Strike is 400.00, New Strike is 66.67.\nOld Strike is 405.00, New Strike is 67.50.\nOld Strike is 410.00, New Strike is 68.33.\nOld Strike is 415.00, New Strike is 69.17.\nOld Strike is 420.00, New Strike is 70.00.\nOld Strike is 425.00, New Strike is 70.83.\nOld Strike is 430.00, New Strike is 71.67.\nOld Strike is 435.00, New Strike is 72.50.\nOld Strike is 440.00, New Strike is 73.33.\nOld Strike is 445.00, New Strike is 74.17.\nOld Strike is 450.00, New Strike is 75.00.\nOld Strike is 455.00, New Strike is 75.83.\nOld Strike is 460.00, New Strike is 76.67.\nOld Strike is 465.00, New Strike is 77.50.\nOld Strike is 470.00, New Strike is 78.33.\nOld Strike is 475.00, New Strike is 79.17.\nOld Strike is 480.00, New Strike is 80.00.\nOld Strike is 485.00, New Strike is 80.83.\nOld Strike is 490.00, New Strike is 81.67.\nOld Strike is 495.00, New Strike is 82.50.\nOld Strike is 500.00, New Strike is 83.33.\nOld Strike is 505.00, New Strike is 84.17.\nOld Strike is 510.00, New Strike is 85.00.\nOld Strike is 515.00, New Strike is 85.83.\nOld Strike is 520.00, New Strike is 86.67.\nOld Strike is 525.00, New Strike is 87.50.\nOld Strike is 530.00, New Strike is 88.33.\nOld Strike is 535.00, New Strike is 89.17.\nOld Strike is 540.00, New Strike is 90.00.\nOld Strike is 545.00, New Strike is 90.83.\nOld Strike is 550.00, New Strike is 91.67.\nOld Strike is 555.00, New Strike is 92.50.\nOld Strike is 560.00, New Strike is 93.33.\nOld Strike is 565.00, New Strike is 94.17.\nOld Strike is 570.00, New Strike is 95.00.\nOld Strike is 575.00, New Strike is 95.83.\nOld Strike is 580.00, New Strike is 96.67.\nOld Strike is 585.00, New Strike is 97.50.\nOld Strike is 590.00, New Strike is 98.33."
+  }
+]
