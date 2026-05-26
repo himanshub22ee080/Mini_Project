@@ -1,0 +1,76 @@
+{
+    "initial_score": 1.0,
+    "final_score": 0.8,
+    "evaluations": [
+        {
+            "field": "eventType",
+            "ai_extracted_value": "EXCLUSION OF FUTURES AND OPTIONS CONTRACTS",
+            "ai_supporting_context": "Exclusion of Futures and Options contracts on Four Securities",
+            "is_supported": true,
+            "judge_reason": "The context matches the document text and supports the extracted event type."
+        },
+        {
+            "field": "eventSubject",
+            "ai_extracted_value": "Exclusion of Futures and Options contracts on Four Securities",
+            "ai_supporting_context": "Exclusion of Futures and Options contracts on Four Securities",
+            "is_supported": true,
+            "judge_reason": "The subject matches the document header text exactly."
+        },
+        {
+            "field": "eventSummaryText",
+            "ai_extracted_value": "Members are requested to note that the contracts for new expiry months in the following securities will not be issued on expiry of existing contract months:\nHowever, the existing unexpired contracts of expiry months February 2026, March 2026 and April 2026 would continue to be available for trading till their respective expiry and new strikes would also be introduced in the existing contract months.\nAccordingly, no contracts shall be available for trading in the above-mentioned securities with effect from April 29, 2026.",
+            "ai_supporting_context": "Members are requested to note that the contracts for new expiry months in the following securities will not be\nissued on expiry of existing contract months:\nHowever, the existing unexpired contracts of expiry months February 2026, March 2026 and April 2026 would\ncontinue to be available for trading till their respective expiry and new strikes would also be introduced in the\nexisting contract months.\nAccordingly, no contracts shall be available for trading in the above-mentioned securities with effect from April\n29, 2026.",
+            "is_supported": true,
+            "judge_reason": "The summary text is extracted directly from the document body."
+        },
+        {
+            "field": "exchangeCode",
+            "ai_extracted_value": "NSE",
+            "ai_supporting_context": "Download Ref No: NSE/FAOP/72950",
+            "is_supported": true,
+            "judge_reason": "NSE is correctly derived from the reference number in table 1."
+        },
+        {
+            "field": "exchangeSourceName",
+            "ai_extracted_value": "National Stock Exchange of India Limited",
+            "ai_supporting_context": "National Stock Exchange of India Limited",
+            "is_supported": true,
+            "judge_reason": "The source name matches the document header."
+        },
+        {
+            "field": "exchangeReferenceId",
+            "ai_extracted_value": "NSE/FAOP/72950",
+            "ai_supporting_context": "Download Ref No: NSE/FAOP/72950",
+            "is_supported": true,
+            "judge_reason": "The reference ID matches the value in table 1."
+        },
+        {
+            "field": "exchangeTickers",
+            "ai_extracted_value": "[\"HUDCO\", \"PPLPHARMA\", \"TATATECH\", \"TORNTPOWER\"]",
+            "ai_supporting_context": "[\"1\", \"HUDCO\", \"HOUSING & URBAN DEVELOPMENT CORPORATION LIMITED\"], [\"2\", \"PPLPHARMA\", \"PIRAMAL PHARMA LIMITED\"], [\"3\", \"TATATECH\", \"TATA TECHNOLOGIES LIMITED\"], [\"4\", \"TORNTPOWER\", \"TORRENT POWER LIMITED\"]",
+            "is_supported": true,
+            "judge_reason": "The tickers match the symbols listed in table 2."
+        },
+        {
+            "field": "eventPublishDate",
+            "ai_extracted_value": "2026-02-23",
+            "ai_supporting_context": "Date: February 23, 2026",
+            "is_supported": true,
+            "judge_reason": "The date matches the publication date in table 1."
+        },
+        {
+            "field": "eventEffectiveDate",
+            "ai_extracted_value": "2026-04-29",
+            "ai_supporting_context": "Accordingly, no contracts shall be available for trading in the above-mentioned securities with effect from April\n29, 2026.",
+            "is_supported": true,
+            "judge_reason": "The effective date matches the text in the document."
+        },
+        {
+            "field": "underlyings",
+            "ai_extracted_value": "[{\"nameLong\": \"HOUSING & URBAN DEVELOPMENT CORPORATION LIMITED\", \"exchangeTicker\": \"HUDCO\"}, {\"nameLong\": \"PIRAMAL PHARMA LIMITED\", \"exchangeTicker\": \"PPLPHARMA\"}, {\"nameLong\": \"TATA TECHNOLOGIES LIMITED\", \"exchangeTicker\": \"TATATECH\"}, {\"nameLong\": \"TORRENT POWER LIMITED\", \"exchangeTicker\": \"TORNTPOWER\"}]",
+            "ai_supporting_context": "[\"1\", \"HUDCO\", \"HOUSING & URBAN DEVELOPMENT CORPORATION LIMITED\"], [\"2\", \"PPLPHARMA\", \"PIRAMAL PHARMA LIMITED\"], [\"3\", \"TATATECH\", \"TATA TECHNOLOGIES LIMITED\"], [\"4\", \"TORNTPOWER\", \"TORRENT POWER LIMITED\"]",
+            "is_supported": true,
+            "judge_reason": "The underlying names and tickers match table 2."
+        }
+    ]
+}

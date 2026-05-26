@@ -1,0 +1,118 @@
+{
+    "initial_score": 1.0,
+    "final_score": 1.0,
+    "evaluations": [
+        {
+            "field": "exchangeNotificationId",
+            "ai_extracted_value": "58716",
+            "ai_supporting_context": "#58716",
+            "is_supported": true,
+            "judge_reason": "The exchange notification ID '58716' is clearly stated in the document header."
+        },
+        {
+            "field": "eventPublishDate",
+            "ai_extracted_value": "April 06, 2026",
+            "ai_supporting_context": "Date: April 06, 2026",
+            "is_supported": true,
+            "judge_reason": "The publication date 'April 06, 2026' is explicitly provided in the document."
+        },
+        {
+            "field": "eventSubject",
+            "ai_extracted_value": "Vanguard S&P 500 Growth ETF - 6 For 1 Stock Split",
+            "ai_supporting_context": "Subject: Vanguard S&P 500 Growth ETF - 6 For 1 Stock Split",
+            "is_supported": true,
+            "judge_reason": "The subject line matches the extracted value exactly."
+        },
+        {
+            "field": "eventType",
+            "ai_extracted_value": "STOCK SPLIT",
+            "ai_supporting_context": "Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.",
+            "is_supported": true,
+            "judge_reason": "The document explicitly states that Vanguard S&P 500 Growth ETF has announced a 6 for 1 stock split."
+        },
+        {
+            "field": "exchangeTickers",
+            "ai_extracted_value": "[\"VOOG\"]",
+            "ai_supporting_context": "Option Symbol: VOOG",
+            "is_supported": true,
+            "judge_reason": "The option symbol 'VOOG' is listed in the document."
+        },
+        {
+            "field": "exDate",
+            "ai_extracted_value": "04/21/2026",
+            "ai_supporting_context": "Ex-Date: 04/21/2026",
+            "is_supported": true,
+            "judge_reason": "The Ex-Date is explicitly listed as '04/21/2026'."
+        },
+        {
+            "field": "payDate",
+            "ai_extracted_value": "April 20, 2026",
+            "ai_supporting_context": "The Payable Date is April 20, 2026.",
+            "is_supported": true,
+            "judge_reason": "The Payable Date is explicitly listed as 'April 20, 2026'."
+        },
+        {
+            "field": "recordDate",
+            "ai_extracted_value": "April 17, 2026",
+            "ai_supporting_context": "The Record Date is April 17, 2026.",
+            "is_supported": true,
+            "judge_reason": "The Record Date is explicitly listed as 'April 17, 2026'."
+        },
+        {
+            "field": "eventEffectiveDate",
+            "ai_extracted_value": "April 21, 2026",
+            "ai_supporting_context": "Effective Date: April 21, 2026",
+            "is_supported": true,
+            "judge_reason": "The Effective Date is explicitly listed as 'April 21, 2026'."
+        },
+        {
+            "field": "contractMultiplier",
+            "ai_extracted_value": "6.0",
+            "ai_supporting_context": "Contract Multiplier: 6.00",
+            "is_supported": true,
+            "judge_reason": "The Contract Multiplier is explicitly listed as '6.00'."
+        },
+        {
+            "field": "newContractMultiplier",
+            "ai_extracted_value": "100.0",
+            "ai_supporting_context": "New Multiplier: 100",
+            "is_supported": true,
+            "judge_reason": "The New Multiplier is explicitly listed as '100'."
+        },
+        {
+            "field": "quantityBefore",
+            "ai_extracted_value": "1.0",
+            "ai_supporting_context": "6 for 1 stock split",
+            "is_supported": true,
+            "judge_reason": "The '6 for 1' split ratio implies a quantity before of 1."
+        },
+        {
+            "field": "quantityAfter",
+            "ai_extracted_value": "6.0",
+            "ai_supporting_context": "6 for 1 stock split",
+            "is_supported": true,
+            "judge_reason": "The '6 for 1' split ratio implies a quantity after of 6."
+        },
+        {
+            "field": "strikePriceChangeFlag",
+            "ai_extracted_value": "YES",
+            "ai_supporting_context": "Strike Divisor: 6.00",
+            "is_supported": true,
+            "judge_reason": "The presence of a Strike Divisor of 6.00 and the table of old vs new strikes confirms that strike prices will change."
+        },
+        {
+            "field": "versionChangeFlag",
+            "ai_extracted_value": "NO",
+            "ai_supporting_context": "Option Symbol: VOOG remains VOOG",
+            "is_supported": true,
+            "judge_reason": "The document states 'Option Symbol: VOOG remains VOOG', indicating no version/symbol change."
+        },
+        {
+            "field": "underlyings",
+            "ai_extracted_value": "[{\"cusip\": \"921932505\", \"nameLong\": \"Vanguard S&P 500 Growth ETF\", \"exchangeTicker\": \"VOOG\", \"ticker\": \"VOOG\"}]",
+            "ai_supporting_context": "Per Contract: 100 Vanguard S&P 500 Growth ETF (VOOG) Shares\nCUSIP: 921932505",
+            "is_supported": true,
+            "judge_reason": "The underlying details (CUSIP, name, and ticker) are fully supported by the text on page 1."
+        }
+    ]
+}

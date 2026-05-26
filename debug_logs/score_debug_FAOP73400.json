@@ -1,0 +1,125 @@
+{
+    "initial_score": 1.0,
+    "final_score": 1.0,
+    "evaluations": [
+        {
+            "field": "eventType",
+            "ai_extracted_value": "INTRODUCTION OF FUTURES & OPTIONS CONTRACTS",
+            "ai_supporting_context": "Introduction of Futures & Options Contracts on Two Individual Securities",
+            "is_supported": true,
+            "judge_reason": "The event type is supported by the text 'Introduction of Futures & Options Contracts on Two Individual Securities' on page 1."
+        },
+        {
+            "field": "eventSubject",
+            "ai_extracted_value": "Introduction of Futures & Options Contracts on Two Individual Securities",
+            "ai_supporting_context": "Introduction of Futures & Options Contracts on Two Individual Securities",
+            "is_supported": true,
+            "judge_reason": "The event subject is supported by the text 'Introduction of Futures & Options Contracts on Two Individual Securities' on page 1."
+        },
+        {
+            "field": "eventSummaryText",
+            "ai_extracted_value": "Introduction of Futures & Options Contracts on Two Individual Securities",
+            "ai_supporting_context": "Introduction of Futures & Options Contracts on Two Individual Securities",
+            "is_supported": true,
+            "judge_reason": "The event summary text is supported by the text 'Introduction of Futures & Options Contracts on Two Individual Securities' on page 1."
+        },
+        {
+            "field": "eventInitialUrl",
+            "ai_extracted_value": "https://www.nseindia.com/all-reports-derivatives",
+            "ai_supporting_context": "https://www.nseindia.com/all-reports-derivatives",
+            "is_supported": true,
+            "judge_reason": "The URL is supported by the text 'https://www.nseindia.com/all-reports-derivatives' on page 1 (with hyphenation in the source text)."
+        },
+        {
+            "field": "events",
+            "ai_extracted_value": "[\"contract.gz\", \"NSE_FO_contract_ddmmyyyy.csv.gz\"]",
+            "ai_supporting_context": "Members are advised to load the updated contract.gz and NSE_FO_contract_ddmmyyyy.csv.gz file",
+            "is_supported": true,
+            "judge_reason": "The files 'contract.gz' and 'NSE_FO_contract_ddmmyyyy.csv.gz' are mentioned on page 1."
+        },
+        {
+            "field": "exchangeCode",
+            "ai_extracted_value": "NSE",
+            "ai_supporting_context": "Download Ref No: NSE/FAOP/73400",
+            "is_supported": true,
+            "judge_reason": "The exchange code 'NSE' is supported by the download reference number 'NSE/FAOP/73400' in table_1."
+        },
+        {
+            "field": "exchangeSourceName",
+            "ai_extracted_value": "National Stock Exchange of India Limited",
+            "ai_supporting_context": "National Stock Exchange of India Limited",
+            "is_supported": true,
+            "judge_reason": "The exchange source name 'National Stock Exchange of India Limited' is supported by the text on page 1."
+        },
+        {
+            "field": "exchangeReferenceId",
+            "ai_extracted_value": "NSE/FAOP/73400",
+            "ai_supporting_context": "Download Ref No: NSE/FAOP/73400",
+            "is_supported": true,
+            "judge_reason": "The reference ID 'NSE/FAOP/73400' is supported by table_1."
+        },
+        {
+            "field": "exchangeTickers",
+            "ai_extracted_value": "[\"FORCEMOT\", \"GODFRYPHLP\"]",
+            "ai_supporting_context": "Symbol\nFORCEMOT\nGODFRYPHLP",
+            "is_supported": true,
+            "judge_reason": "The tickers 'FORCEMOT' and 'GODFRYPHLP' are supported by table_2."
+        },
+        {
+            "field": "eventPublishDate",
+            "ai_extracted_value": "March 20, 2026",
+            "ai_supporting_context": "Date: March 20, 2026",
+            "is_supported": true,
+            "judge_reason": "The publish date 'March 20, 2026' is supported by table_1."
+        },
+        {
+            "field": "eventEffectiveDate",
+            "ai_extracted_value": "April 01, 2026",
+            "ai_supporting_context": "available for trading w.e.f. April 01, 2026",
+            "is_supported": true,
+            "judge_reason": "The effective date 'April 01, 2026' is supported by the text 'available for trading w.e.f. April 01, 2026' on page 1."
+        },
+        {
+            "field": "underlyings[0].nameLong",
+            "ai_extracted_value": "Force Motors Limited",
+            "ai_supporting_context": "Force Motors Limited",
+            "is_supported": true,
+            "judge_reason": "The name 'Force Motors Limited' is supported by table_2."
+        },
+        {
+            "field": "underlyings[0].exchangeTicker",
+            "ai_extracted_value": "FORCEMOT",
+            "ai_supporting_context": "FORCEMOT",
+            "is_supported": true,
+            "judge_reason": "The exchange ticker 'FORCEMOT' is supported by table_2."
+        },
+        {
+            "field": "underlyings[0].ticker",
+            "ai_extracted_value": "FORCEMOT",
+            "ai_supporting_context": "FORCEMOT",
+            "is_supported": true,
+            "judge_reason": "The ticker 'FORCEMOT' is supported by table_2."
+        },
+        {
+            "field": "underlyings[1].nameLong",
+            "ai_extracted_value": "Godfrey Phillips India Limited",
+            "ai_supporting_context": "Godfrey Phillips India Limited",
+            "is_supported": true,
+            "judge_reason": "The name 'Godfrey Phillips India Limited' is supported by table_2."
+        },
+        {
+            "field": "underlyings[1].exchangeTicker",
+            "ai_extracted_value": "GODFRYPHLP",
+            "ai_supporting_context": "GODFRYPHLP",
+            "is_supported": true,
+            "judge_reason": "The exchange ticker 'GODFRYPHLP' is supported by table_2."
+        },
+        {
+            "field": "underlyings[1].ticker",
+            "ai_extracted_value": "GODFRYPHLP",
+            "ai_supporting_context": "GODFRYPHLP",
+            "is_supported": true,
+            "judge_reason": "The ticker 'GODFRYPHLP' is supported by table_2."
+        }
+    ]
+}
