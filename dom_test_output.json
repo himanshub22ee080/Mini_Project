@@ -1,0 +1,80 @@
+{
+  "document_pages": [
+    {
+      "page": 1,
+      "text": "National Stock Exchange of India Limited\nCircular\nAll Members,\nIntroduction of Futures & Options Contracts on Two Individual Securities\nMembers are advised to note that based on the stock selection criteria as prescribed by SEBI vide circular no.\nSEBI/HO/MRD/MRD-PoD-2/P/CIR/2024/116 dated August 30, 2024 and approval received from SEBI,\nmembers are hereby notified that the futures and options contracts on following securities would be available\nfor trading w.e.f. April 01, 2026, subject to fulfilment of eligibility criteria of Quarter sigma computation cycle\nof March 2026.\nOther Important Points to be noted:\n\u2022 The market lot and scheme of strikes of the above mentioned securities shall be informed to members\non March 30, 2026 through a separate circular.\n\u2022 The details of applicable quantity freeze shall be available in the contract file which shall be applicable\nfor trading on April 01, 2026.\n\u2022 Members are advised to load the updated contract.gz and NSE_FO_contract_ddmmyyyy.csv.gz file in\nthe trading application before trading on the effective date. This file can be obtained from the directory\nfaoftp/faocommon on the Extranet server. Additionally, members can access the MII contract file -\nNSE_FO_contract_ddmmyyyy.csv.gz on the website path :- https://www.nseindia.com/all-reports-\nderivatives.\nFor and on behalf of\nNational Stock Exchange of India Limited\nKhushal Shah\nAssociate Vice President",
+      "table_refs": [
+        "table_1",
+        "table_2"
+      ]
+    },
+    {
+      "page": 2,
+      "text": "National Stock Exchange of India Limited\nPage 2 of 2",
+      "table_refs": [
+        "table_3"
+      ]
+    }
+  ],
+  "extracted_tables": [
+    {
+      "id": "table_1",
+      "pages": [
+        1
+      ],
+      "content": [
+        [
+          "Department: FUTURES & OPTIONS",
+          ""
+        ],
+        [
+          "Download Ref No: NSE/FAOP/73400",
+          "Date: March 20, 2026"
+        ],
+        [
+          "Circular Ref. No: 38/2026",
+          ""
+        ]
+      ]
+    },
+    {
+      "id": "table_2",
+      "pages": [
+        1
+      ],
+      "content": [
+        [
+          "Sr. No.",
+          "Symbol",
+          "Security Name"
+        ],
+        [
+          "1",
+          "FORCEMOT",
+          "Force Motors Limited"
+        ],
+        [
+          "2",
+          "GODFRYPHLP",
+          "Godfrey Phillips India Limited"
+        ]
+      ]
+    },
+    {
+      "id": "table_3",
+      "pages": [
+        2
+      ],
+      "content": [
+        [
+          "Toll Free No",
+          "Email id"
+        ],
+        [
+          "1800-266-0050 (Option 1)",
+          "msm@nse.co.in"
+        ]
+      ]
+    }
+  ]
+}
