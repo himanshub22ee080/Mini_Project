@@ -26,7 +26,7 @@ def process_new_file(file_path):
             return
     else:
         text = extract_text_from_pdf(file_path)
-    
+        
     if not text:
         print(f"⚠️ Could not extract text from {file_name}. Skipping.")
         return
