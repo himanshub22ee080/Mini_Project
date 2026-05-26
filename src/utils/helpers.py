@@ -85,8 +85,9 @@ def convert_to_endata_format(data: dict) -> dict:
     result = {}
     
     for key, val in data.items():
-        # STRICT CLEANUP: Ignore None, empty strings, and empty arrays
         if val is None or val == "" or val == []:
+        # Store them as empty FEED values instead of deleting them
+            result[key] = {"FEED": {"value": None}}
             continue
             
         # Map specific internal ID fields
