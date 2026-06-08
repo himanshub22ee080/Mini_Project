@@ -1,0 +1,174 @@
+{
+    "initial_score": 1.0,
+    "final_score": 1.0,
+    "evaluations": [
+        {
+            "field": "eventType",
+            "ai_extracted_value": "STOCK SPLIT",
+            "ai_supporting_context": "Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.",
+            "is_supported": true,
+            "judge_reason": "The text 'Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.' on page 1 confirms the event type is a stock split."
+        },
+        {
+            "field": "eventSubject",
+            "ai_extracted_value": "Vanguard S&P 500 Growth ETF - 6 For 1 Stock Split",
+            "ai_supporting_context": "Subject: Vanguard S&P 500 Growth ETF - 6 For 1 Stock Split",
+            "is_supported": true,
+            "judge_reason": "The text 'Subject: Vanguard S&P 500 Growth ETF - 6 For 1 Stock Split' is present on page 1."
+        },
+        {
+            "field": "eventPublishDate",
+            "ai_extracted_value": "2026-04-06",
+            "ai_supporting_context": "Date: April 06, 2026",
+            "is_supported": true,
+            "judge_reason": "The text 'Date: April 06, 2026' is present on page 1, which corresponds to 2026-04-06."
+        },
+        {
+            "field": "eventEffectiveDate",
+            "ai_extracted_value": "2026-04-21",
+            "ai_supporting_context": "Effective Date: April 21, 2026",
+            "is_supported": true,
+            "judge_reason": "The text 'Effective Date: April 21, 2026' is present on page 1, which corresponds to 2026-04-21."
+        },
+        {
+            "field": "exDate",
+            "ai_extracted_value": "2026-04-21",
+            "ai_supporting_context": "Ex-Date: 04/21/2026",
+            "is_supported": true,
+            "judge_reason": "The text 'Ex-Date: 04/21/2026' is present on page 1, which corresponds to 2026-04-21."
+        },
+        {
+            "field": "recordDate",
+            "ai_extracted_value": "2026-04-17",
+            "ai_supporting_context": "The Record Date is April 17, 2026.",
+            "is_supported": true,
+            "judge_reason": "The text 'The Record Date is April 17, 2026.' is present on page 1, which corresponds to 2026-04-17."
+        },
+        {
+            "field": "payDate",
+            "ai_extracted_value": "2026-04-20",
+            "ai_supporting_context": "The Payable Date is April 20, 2026.",
+            "is_supported": true,
+            "judge_reason": "The text 'The Payable Date is April 20, 2026.' is present on page 1, which corresponds to 2026-04-20."
+        },
+        {
+            "field": "exchangeReferenceId",
+            "ai_extracted_value": "58716",
+            "ai_supporting_context": "#58716",
+            "is_supported": true,
+            "judge_reason": "The text '#58716' is present on page 1."
+        },
+        {
+            "field": "exchangeTickers",
+            "ai_extracted_value": "[\"VOOG\"]",
+            "ai_supporting_context": "Option Symbol: VOOG",
+            "is_supported": true,
+            "judge_reason": "The text 'Option Symbol: VOOG' is present on page 1."
+        },
+        {
+            "field": "productName",
+            "ai_extracted_value": "Vanguard S&P 500 Growth ETF",
+            "ai_supporting_context": "Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.",
+            "is_supported": true,
+            "judge_reason": "The text 'Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.' on page 1 confirms the product name."
+        },
+        {
+            "field": "contractMultiplier",
+            "ai_extracted_value": "6.0",
+            "ai_supporting_context": "Contract Multiplier: 6.00",
+            "is_supported": true,
+            "judge_reason": "The text 'Contract Multiplier: 6.00' is present on page 1."
+        },
+        {
+            "field": "newContractMultiplier",
+            "ai_extracted_value": "100.0",
+            "ai_supporting_context": "New Multiplier: 100",
+            "is_supported": true,
+            "judge_reason": "The text 'New Multiplier: 100' is present on page 1."
+        },
+        {
+            "field": "strikePriceChangeFlag",
+            "ai_extracted_value": "YES",
+            "ai_supporting_context": "These strikes reflect strikes that are active as of the publication date of this information memo and will be adjusted on the ex-date.",
+            "is_supported": true,
+            "judge_reason": "The text on page 3 states that strikes will be adjusted on the ex-date, confirming that strike prices will change."
+        },
+        {
+            "field": "quantityBefore",
+            "ai_extracted_value": "1.0",
+            "ai_supporting_context": "6 For 1 Stock Split",
+            "is_supported": true,
+            "judge_reason": "The text '6 For 1 Stock Split' on page 1 indicates a ratio of 1 before the split."
+        },
+        {
+            "field": "quantityAfter",
+            "ai_extracted_value": "6.0",
+            "ai_supporting_context": "6 For 1 Stock Split",
+            "is_supported": true,
+            "judge_reason": "The text '6 For 1 Stock Split' on page 1 indicates a ratio of 6 after the split."
+        },
+        {
+            "field": "underlyings[0].cusip",
+            "ai_extracted_value": "921932505",
+            "ai_supporting_context": "CUSIP: 921932505",
+            "is_supported": true,
+            "judge_reason": "The text 'CUSIP: 921932505' is present on page 1."
+        },
+        {
+            "field": "underlyings[0].nameLong",
+            "ai_extracted_value": "Vanguard S&P 500 Growth ETF",
+            "ai_supporting_context": "Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.",
+            "is_supported": true,
+            "judge_reason": "The text 'Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.' on page 1 confirms the underlying name."
+        },
+        {
+            "field": "underlyings[0].exchangeTicker",
+            "ai_extracted_value": "VOOG",
+            "ai_supporting_context": "Option Symbol: VOOG",
+            "is_supported": true,
+            "judge_reason": "The text 'Option Symbol: VOOG' is present on page 1."
+        },
+        {
+            "field": "underlyings[0].ticker",
+            "ai_extracted_value": "VOOG",
+            "ai_supporting_context": "Option Symbol: VOOG",
+            "is_supported": true,
+            "judge_reason": "The text 'Option Symbol: VOOG' is present on page 1."
+        },
+        {
+            "field": "newUnderlyings[0].newCusip",
+            "ai_extracted_value": "921932505",
+            "ai_supporting_context": "CUSIP: 921932505",
+            "is_supported": true,
+            "judge_reason": "The text 'CUSIP: 921932505' is present on page 1."
+        },
+        {
+            "field": "newUnderlyings[0].newNameLong",
+            "ai_extracted_value": "Vanguard S&P 500 Growth ETF",
+            "ai_supporting_context": "Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.",
+            "is_supported": true,
+            "judge_reason": "The text 'Vanguard S&P 500 Growth ETF (VOOG) has announced a 6 for 1 stock split.' on page 1 confirms the new underlying name."
+        },
+        {
+            "field": "newUnderlyings[0].newExchangeTicker",
+            "ai_extracted_value": "VOOG",
+            "ai_supporting_context": "Option Symbol: VOOG",
+            "is_supported": true,
+            "judge_reason": "The text 'Option Symbol: VOOG' is present on page 1."
+        },
+        {
+            "field": "newUnderlyings[0].newTicker",
+            "ai_extracted_value": "VOOG",
+            "ai_supporting_context": "Option Symbol: VOOG",
+            "is_supported": true,
+            "judge_reason": "The text 'Option Symbol: VOOG' is present on page 1."
+        },
+        {
+            "field": "newUnderlyings[0].newQuantity",
+            "ai_extracted_value": "100.0",
+            "ai_supporting_context": "Per Contract: 100 Vanguard S&P 500 Growth ETF (VOOG) Shares",
+            "is_supported": true,
+            "judge_reason": "The text 'Per Contract: 100 Vanguard S&P 500 Growth ETF (VOOG) Shares' is present on page 1."
+        }
+    ]
+}
